@@ -35,7 +35,7 @@ img{
     width: 250px;
     height: 150px;
     position: absolute;
-   
+    border-radius: 50%;
     top: 53px;
     left: 30px;
    
